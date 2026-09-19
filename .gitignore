@@ -1,0 +1,15 @@
+/bin/
+/dist/
+/vendor/
+
+*.log
+*.pid
+
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+Thumbs.db
+desktop.ini
+.DS_Store
